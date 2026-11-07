@@ -1,6 +1,4 @@
 
-
-
 <!DOCTYPE html>
 <html lang="th">
 <head>
@@ -560,3 +558,6 @@ function restartQuiz(){
 </script>
 </body>
 </html>
+
+
+
